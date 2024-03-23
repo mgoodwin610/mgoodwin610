@@ -14,7 +14,7 @@ const mike = {
   pronouns: "he" | "im",
   code: [Javascript, HTML, CSS, Python, Java],
   challenge: "I am doing the #100DaysOfCode challenge focused on python"
-  learning: 'Fullstack development through TechElevator"
+  learning: "Fullstack development through TechElevator"
 }
 ```
 
