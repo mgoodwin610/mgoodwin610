@@ -1,6 +1,7 @@
 <h2> Hi, I'm Mike Goodwin!
-<p><em>Dock Supervisor at Amazon</a>
+<p><em>Process Assisstant at Amazon</a>
 <br>BS in Mechanical Engineering
+<br>Software Developer
 </em></p>
 
 [![Linkedin: michael-j-goodwin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-j-goodwin/)](https://www.linkedin.com/in/michael-j-goodwin/)
