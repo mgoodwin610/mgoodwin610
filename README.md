@@ -1,5 +1,5 @@
 <h2> Hi, I'm Mike Goodwin!
-<p><em>Process Assisstant at Amazon</a>
+<p><em>
 <br>BS in Mechanical Engineering
 <br>Software Developer
 </em></p>
